@@ -31,4 +31,5 @@ In addition, I created a production example notebook to simulate the deployment 
 production environment. In this setup, I used the yfinance API to retrieve news articles and apply my 
 sentiment classification models to the live data.
 ### Demonstration and Future Deployment
-As a demonstration, I developed a Streamlit app to showcase how my approach works.
+As a demonstration, I developed a Streamlit app to showcase how my approach works. ![Demo](assets/demo.gif)
+
